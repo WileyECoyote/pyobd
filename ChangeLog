@@ -1,0 +1,13 @@
+2019-06-14 Wiley E. Hill <wileyhill@gmail.com>
+
+    * obd2_codes.py: Revise message strings to include "(Bank 1 Sensor 1)" for codes:
+
+        * P0030
+        * P0031
+        * P0032
+        * P0130
+        * P0131
+        * P0132
+        * P0133
+        * P0134
+        * P0135
