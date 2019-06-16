@@ -50,3 +50,12 @@
         * P0159
         * P0160
         * P0161
+
+    Revise message strings to include "(Bank 2 Sensor 3)" for codes:
+
+        * P0162
+        * P0163
+        * P0164
+        * P0165
+        * P0166
+        * P0167
