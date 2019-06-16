@@ -11,3 +11,24 @@
         * P0133
         * P0134
         * P0135
+
+    Revise message strings to include "(Bank 1 Sensor 2)" for codes:
+
+        * P0036
+        * P0037
+        * P0038
+        * P0136
+        * P0137
+        * P0138
+        * P0139
+        * P0140
+        * P0141
+
+    Revise message strings to include "(Bank 1 Sensor 3)" for codes:
+
+        * P0142
+        * P0143
+        * P0144
+        * P0145
+        * P0146
+        * P0147
